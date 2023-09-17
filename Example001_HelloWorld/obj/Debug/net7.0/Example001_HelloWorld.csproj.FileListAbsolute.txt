@@ -1,0 +1,15 @@
+/home/alla/Рабочий стол/Examples/Example001_HelloWorld/bin/Debug/net7.0/Example001_HelloWorld
+/home/alla/Рабочий стол/Examples/Example001_HelloWorld/bin/Debug/net7.0/Example001_HelloWorld.deps.json
+/home/alla/Рабочий стол/Examples/Example001_HelloWorld/bin/Debug/net7.0/Example001_HelloWorld.runtimeconfig.json
+/home/alla/Рабочий стол/Examples/Example001_HelloWorld/bin/Debug/net7.0/Example001_HelloWorld.dll
+/home/alla/Рабочий стол/Examples/Example001_HelloWorld/bin/Debug/net7.0/Example001_HelloWorld.pdb
+/home/alla/Рабочий стол/Examples/Example001_HelloWorld/obj/Debug/net7.0/Example001_HelloWorld.csproj.AssemblyReference.cache
+/home/alla/Рабочий стол/Examples/Example001_HelloWorld/obj/Debug/net7.0/Example001_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/alla/Рабочий стол/Examples/Example001_HelloWorld/obj/Debug/net7.0/Example001_HelloWorld.AssemblyInfoInputs.cache
+/home/alla/Рабочий стол/Examples/Example001_HelloWorld/obj/Debug/net7.0/Example001_HelloWorld.AssemblyInfo.cs
+/home/alla/Рабочий стол/Examples/Example001_HelloWorld/obj/Debug/net7.0/Example001_HelloWorld.csproj.CoreCompileInputs.cache
+/home/alla/Рабочий стол/Examples/Example001_HelloWorld/obj/Debug/net7.0/Example001_HelloWorld.dll
+/home/alla/Рабочий стол/Examples/Example001_HelloWorld/obj/Debug/net7.0/refint/Example001_HelloWorld.dll
+/home/alla/Рабочий стол/Examples/Example001_HelloWorld/obj/Debug/net7.0/Example001_HelloWorld.pdb
+/home/alla/Рабочий стол/Examples/Example001_HelloWorld/obj/Debug/net7.0/Example001_HelloWorld.genruntimeconfig.cache
+/home/alla/Рабочий стол/Examples/Example001_HelloWorld/obj/Debug/net7.0/ref/Example001_HelloWorld.dll
