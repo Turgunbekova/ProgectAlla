@@ -5,11 +5,11 @@
 //22 3 9 -> 228
 
 
-Console.Write($"Введите число a: ");
+Console.Write($"Введите число 1: ");
 int a = Convert.ToInt32(Console.ReadLine());
-Console.Write($"Введите число b: ");
+Console.Write($"Введите число 2: ");
 int b = Convert.ToInt32(Console.ReadLine());
-Console.Write($"Введите число c: ");
+Console.Write($"Введите число 3: ");
 int c = Convert.ToInt32(Console.ReadLine());
 int max = a;
  if (max<b) max = b;
